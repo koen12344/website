@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Like they always say in The Netherlands: "The faucet leaks at the plumbers home". I'm always busy working on other projects 
+Like they always say in The Netherlands: "The faucet leaks at the plumbers house". I'm usually busy working on other projects 
 while my personal website gets a bit neglected. You know how it goes.
 
 I figured setting up a simple website would 
