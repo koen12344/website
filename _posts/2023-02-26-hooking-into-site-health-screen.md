@@ -5,8 +5,9 @@ date:   2023-02-26 12:51:48 +0100
 categories: wordpress
 tags: wordpress php
 classes: wide
+header:
+    og_image: /assets/images/sitehealth.png
 ---
-
 
 WordPress 5.2 gave us [the Site Health screen](https://make.wordpress.org/core/2019/04/25/site-health-check-in-5-2/), a convenient way for users to check on the vitals of their website. 
 It performs some tests and also gives the option to copy all debug data to the clipboard for easy sharing.
