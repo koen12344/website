@@ -8,17 +8,24 @@ header:
     - label: "Learn More"
       url: "https://tycoonmedia.net/product-sync-for-gbp/"
 gallery:
-- url: /assets/images/unsplash-gallery-image-1.jpg
-  image_path: assets/images/unsplash-gallery-image-1-th.jpg
-  alt: "placeholder image 1"
-- url: /assets/images/unsplash-gallery-image-2.jpg
-  image_path: assets/images/unsplash-gallery-image-2-th.jpg
-  alt: "placeholder image 2"
-- url: /assets/images/unsplash-gallery-image-3.jpg
-  image_path: assets/images/unsplash-gallery-image-3-th.jpg
-  alt: "placeholder image 3"
+- url: /assets/images/screenshot1-1.png
+  image_path: assets/images/screenshot1-1-400x284.png
+  alt: "Plugin settings"
+- url: /assets/images/nmd5FMNqom.png
+  image_path: assets/images/nmd5FMNqom-400x284.png
+  alt: "Bulk sync selected products"
+- url: /assets/images/iaQroaj6ve.png
+  image_path: assets/images/iaQroaj6ve-400x284.png
+  alt: "Sync checkbox"
+- url: /assets/images/BBiRZXhXp7.png
+  image_path: assets/images/BBiRZXhXp7-400x284.png
+  alt: "Bulk sync settings"
 ---
 
-Product Sync for GBP lets you sync your WooCommerce products to your Google Business Profile listing. 
+The [Product Sync for GBP](https://tycoonmedia.net/product-sync-for-gbp/) plugin lets you sync your WooCommerce product catalog to your Google Business Profile listing. 
+
+Officially the Google Business Profile API doesn't support creating products. They can only be created within their web interface, so I had to figure out a workaround!
+
+The plugin mimics your browser session in order to create them. 
 
 {% include gallery caption="Plugin screenshots" %}

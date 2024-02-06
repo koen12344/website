@@ -23,7 +23,7 @@ My first plugin in the [WordPress plugin repository](https://wordpress.org/plugi
 Released in 2018 and still actively maintained. The plugin currently has over 8000 active installs and holds 100+ 5-star reviews. 
 
 Post to Google My Business lets you (auto-)publish your WordPress posts to your Google Business Profile.
-Alongside that it has advanced features for managing GBP posts at scale, making it a great and affordable
+Alongside that, it has advanced features for managing GBP posts at scale, making it a great and affordable
 solution for webdev- & SEO agencies to manage GBP posts for customers.
 
 {% include gallery caption="Plugin screenshots" %}

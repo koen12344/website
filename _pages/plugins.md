@@ -1,5 +1,5 @@
 ---
-title: Plugins
+title: WordPress plugins
 layout: collection
 permalink: /plugins/
 collection: plugins
@@ -8,4 +8,4 @@ classes: wide
 author_profile: true
 ---
 
-Plugins created by me
+Here's a selection of publicly available WordPress plugins that I have worked on.
