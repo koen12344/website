@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Extracting a site from multisite into standalone WordPress site"
+title:  "Extracting a site from multisite into a standalone WordPress site"
 tagline: ""
 date:   2024-03-23 17:58:48 +0100
 categories: wordpress
