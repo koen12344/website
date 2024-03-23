@@ -1,12 +1,13 @@
 ---
 layout: single
 title:  "Extracting a site from multisite into standalone WordPress site"
+tagline: ""
 date:   2024-03-23 17:58:48 +0100
 categories: wordpress
 tags: wordpress php migration multisite
 classes: wide
 header:
-    og_image: /assets/images/sitehealth.png
+  overlay_image: /assets/images/crane.jpg
 ---
 
 
