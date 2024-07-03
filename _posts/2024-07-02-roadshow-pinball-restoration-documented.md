@@ -8,6 +8,7 @@ tags: pinball roadshow williams restoration
 classes: wide
 header:
   overlay_image: /assets/images/roadshow/IMG_0291.JPG
+  teaser: /assets/images/roadshow/IMG_0291-teaser.JPG
   
 gallery3:
   - url: /assets/images/roadshow/demontage/IMG_0288_medium.JPG
