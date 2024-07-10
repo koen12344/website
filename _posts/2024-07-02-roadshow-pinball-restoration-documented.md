@@ -198,10 +198,10 @@ gallery8:
 ---
 
 In 2020 or so, my pinball-restoration-mate Ruud and I acquired this 1994 Williams Roadshow pinball machine
-in a very rough state. It's easy to underestimate the amount of work that will go into restoring such
+in a very rough and non-working condition. It's easy to underestimate the amount of work that will go into restoring such
 a machine when you're doing a quick inspection at the sellers house, but with this one we were really in for a treat (in a negative sense).
 
-## Initial inspection: water damage & electronic hacks
+## Initial inspection: water damage, electronic hacks and missing parts
 
 {% include gallery id="gallery3" caption="The state of the cabinet & playfield. Notice the legs are painted black but the original blue is still on the inside." %}
 
@@ -311,6 +311,10 @@ Reproductions are being made
 
 When one came for sale on a third-party reseller we of course had to grab it. 
 
+### Cleaning the wiring harness
+
+### Redoing the under-ramp decals
+
 ### Repopulating the playfield
 
 Most of the metal bits and screws have spent a few days in the tumbler and are super shiny again. 
@@ -321,13 +325,21 @@ The radio, bulldozer and Red & Ted's hardhats have been spray-painted.
 
 {% include gallery id="gallery8" caption="Playfield getting repopulated" %}
 
+### Miscellaneous parts that have been replaced
+
+* Lockdown bar receiver
+* Flipper buttons, as they were the wrong color
+* Start and buy-in buttons
+* Shooter rod assemblies (they were mismatched and missing parts)
+* Side rails
+
 ### Things left to do:
 
-* Decals on Red & Ted's hardhats
 * Decals on the apron
 * Respray Williams-logo speaker grilles
-* Replace translite
-* Replace gear for Red's mouth (it's not working currently)
+* Silkscreen warning text on the backbox
+* Various warning and information stickers on the inside of the cabinet
+* Various small electronic issues, such as switches that register intermittently
 
 ## Final result & conclusion
 
