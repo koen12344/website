@@ -9,11 +9,12 @@ classes: wide
 header:
   overlay_image: /assets/images/error-mysql-local.jpg
   teaser: /assets/images/error-mysql-local-teaser.jpg
+
 ---
+
 {% capture notice-2 %}
 tldr: [jump to the solution](#the-solution)
 {% endcapture %}
-
 <div class="notice">{{ notice-2 | markdownify }}</div>
 
 I've been using Local (formerly, and more recognisably Local by Flywheel) as a local environment for developing
@@ -54,7 +55,7 @@ You can check this by doing 'telnet ::1 10005'
 Newly added sites were working just fine, and I noticed they were using MySQL version `8.0.35` instead of the 
 `8.0.16` that my existing sites were using. 
 
-However, the config files made no reference to the MySQL version, and there was no way to change the MySQL version in
+However, the site config files made no reference to the MySQL version, and there was no way to change the MySQL version in
 the Local UI. 
 
 I did some Googling and the only "solution" I could find was to ZIP every site folder and re-import them. This ...worked,
