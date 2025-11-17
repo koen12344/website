@@ -1,10 +1,11 @@
 ---
 layout: single
-title:  "Local WP MySQL connection fix"
+title:  "Local WP MySQL connection fix (after update)"
 tagline: ""
 date:   2025-11-17 14:48:48 +0100
 categories: wordpress
 tags: wordpress mysql local flywheel wp
+excerpt: "Fix for when your Local sites throw a MySQL error after updating"
 classes: wide
 header:
   overlay_image: /assets/images/error-mysql-local.jpg
