@@ -8,7 +8,7 @@ tags: wordpress php migration multisite
 classes: wide
 header:
   overlay_image: /assets/images/crane.jpg
-  teaser: /assets/images/crane-teaser.JPG
+  teaser: /assets/images/crane-teaser.jpg
 ---
 
 
